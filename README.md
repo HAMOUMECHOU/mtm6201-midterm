@@ -1,2 +1,2 @@
-# mtm6201-midterm
+# mtm
 Responsive nutritionist website
